@@ -52,9 +52,9 @@ This project presents a deep learning pipeline for brain tumor analysis from MRI
 |--------------|---------|
 | Accuracy     | 99.6%   |
 | AUC (ROC)    | 0.96    |
-| Precision    | High (see report) |
-| Recall       | High (see report) |
-| F1-Score     | High (see report) |
+| Precision    | High    |
+| Recall       | High    |
+| F1-Score     | High    |
 
 ### 🔹 U-Net Tumor Segmentation
 
