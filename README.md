@@ -6,11 +6,6 @@ This project presents a deep learning pipeline for brain tumor analysis from MRI
 - **Tumor Segmentation:** Multi-class pixel-wise segmentation using a 2D U-Net architecture.
 
 ---
-
-## 📁 Project Structure
-
-
----
 ## 🧠 Datasets Used
 
 - **Tumor Detection:**  
