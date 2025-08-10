@@ -60,10 +60,10 @@ This project presents a deep learning pipeline for brain tumor analysis from MRI
 
 | Tumor Region       | Dice Score | IoU Score |
 |--------------------|------------|-----------|
-| Tumor Core (TC)    | 0.99       | —         |
-| Whole Tumor (WT)   | 0.91       | —         |
-| Enhancing Tumor (ET)| 0.86      | —         |
-| **Mean IoU**       | —          | 0.86      |
+| Tumor Core (TC)    | 0.99       | 0.99      |
+| Whole Tumor (WT)   | 0.91       | 0.84      |
+| Enhancing Tumor (ET)| 0.86      | 0.75      |
+| **Mean**           | 0.92       | 0.86      |
 
 *Note: Dice and IoU indicate excellent segmentation overlap with ground truth.*
 
